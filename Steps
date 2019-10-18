@@ -1,0 +1,17 @@
+1 - 35e660bsauron  
+
+git log --oneline
+git log --all --grep="X="
+
+
+2 - 
+
+git log --oneline ^RedRedding AndyDufresne
+
+
+2f4a0b4 (origin/AndyDufresne, AndyDufresne) Returning some sense of normalcy to the data
+0c7f7ed What is the worst pixar movie? Have you considered that?
+8bf0f8a Text adjustments to make more evocative
+bcb0771 Andy is an amateur geologist; obsidian is his favorite
+f7f1d1e Added links to geological maps and related data
+ca51589 Tim's filmography reveals a varied body of work
